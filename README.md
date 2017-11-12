@@ -21,6 +21,9 @@ En este repositorio encontraras todas las presentaciones utilizadas el dia 04 de
  
 Te esperamos en proximos Meetups. 
 
+- - - -
+
+- - - -
 
 # Rusers Meetup Agosto 2017
 camiloherrera.co - 42data.co  
