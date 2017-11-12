@@ -11,16 +11,12 @@ En este repositorio encontraras todas las presentaciones utilizadas el dia 04 de
 
  En este playlist se encuentra en video todas las presentaciones
 
-[         Text Mining       ](https://www.youtube.com/watch?v=zyN8CvVnMKI)
+[         Social Media y Text Mining con R      ](https://www.youtube.com/watch?v=zyN8CvVnMKI)
 
 [         Análisis Exploratorio de Datos Espaciales Con R     ](https://www.youtube.com/watch?v=6YXW9z5d2Jo)
 
 
- 
-[         Social Media y Text Mining con R       ](https://www.youtube.com/playlist?list=PLC7clAL9PNlBpT5wiUQFNjsHy4-bCwmsQ)
-
- 
- ![](playl2.jpg)
+  ![](playl2.jpg)
  
  
 Te esperamos en proximos Meetups. 
